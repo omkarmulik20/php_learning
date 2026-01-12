@@ -1,4 +1,4 @@
-//DATATYPE AND VARIABLES IN PHP  
+<!-- //DATATYPE AND VARIABLES IN PHP   -->
 
 <!-- string 
      integer
